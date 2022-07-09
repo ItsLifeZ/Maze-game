@@ -2,7 +2,7 @@
 
 <div>
   Simple maze game with randomic generate. 
-  <img align="center" src="https://i.imgur.com/ATYvC6P.gif"
+  <img align="center" src="https://i.imgur.com/8co6U6B.gif"
 </div>
   
 ##
